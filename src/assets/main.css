@@ -6,7 +6,7 @@
 @tailwind utilities;
 
 body {
-  background-color: antiquewhite;
+  background-color: #0f172a;
   text-align: center;
   overflow-x: hidden !important;
     /* font-family: "Fredoka One", cursive; */
